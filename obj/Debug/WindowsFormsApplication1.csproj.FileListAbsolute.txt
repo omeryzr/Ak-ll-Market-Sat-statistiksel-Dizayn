@@ -1,0 +1,110 @@
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giris.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personelbilgi.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personel.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Yönetici.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personeller.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatışistatistikDurumu.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünMalBilgisi.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.İkili_Ürün.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satis.resources
+C:\Users\Ömer\Desktop\C# Akıllı Market\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.personellist.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personelbilgi.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giris.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satis.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatışistatistikDurumu.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Yönetici.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünMalBilgisi.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.İkili_Ürün.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stok.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünEkleme.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kasa.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personel.resources
+C:\Users\Ömer\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PersonelResim.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personel.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personelbilgi.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giris.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kasa.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PersonelResim.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satis.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatışistatistikDurumu.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stok.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Yönetici.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünEkleme.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünMalBilgisi.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.İkili_Ürün.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sistem_Kullanimi.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rapor.resources
+C:\Users\Ömer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RaporStok.resources
+C:\Users\Ömer\Desktop\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ömer\Desktop\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ömer\Desktop\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personel.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personelbilgi.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giris.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kasa.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PersonelResim.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rapor.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RaporStok.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satis.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SatışistatistikDurumu.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sistem_Kullanimi.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Stok.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Yönetici.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünEkleme.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünMalBilgisi.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.İkili_Ürün.resources
+F:\Ömer YAZIR\Yeni klasö\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personel.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Personelbilgi.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giris.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kasa.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PersonelResim.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satis.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Sistem_Kullanimi.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Yönetici.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünEkleme.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ÜrünMalBilgisi.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.İkili_Ürün.resources
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Ömer YAZIR\7 - Proje Ve Programlarım\Market Akıllı Satış ve İstatislik Dizayn\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources

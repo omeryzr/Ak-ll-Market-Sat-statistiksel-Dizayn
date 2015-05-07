@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="orta" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">174, 126</Value>
+    </Setting>
+    <Setting Name="ff" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">164, 126</Value>
+    </Setting>
+    <Setting Name="cc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">185, 126</Value>
+    </Setting>
+    <Setting Name="ccc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">188, 150</Value>
+    </Setting>
+    <Setting Name="qq" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">190, 180</Value>
+    </Setting>
+    <Setting Name="ortaa" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">186, 195</Value>
+    </Setting>
+    <Setting Name="tam" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">186, 205</Value>
+    </Setting>
+    <Setting Name="ortapencere" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">186, 208</Value>
+    </Setting>
+    <Setting Name="ortakpencere" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">186, 212</Value>
+    </Setting>
+    <Setting Name="ortak" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">186, 215</Value>
+    </Setting>
+    <Setting Name="Hesapmakinesi" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">1103, 400</Value>
+    </Setting>
+    <Setting Name="Hesapmkn" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">1103, 400</Value>
+    </Setting>
+    <Setting Name="oıu" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
